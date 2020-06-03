@@ -498,7 +498,7 @@ a:hover {
 }
 
 .navbar-b .navbar-brand {
-  color: blanchedalmond;
+  color: blanchedalmond !important;
   font-size: 1.6rem;
   font-weight: 600;
 }
