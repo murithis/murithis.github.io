@@ -460,7 +460,7 @@ a:hover {
 .navbar-b.navbar-trans .active > .nav-link,
 .navbar-b.navbar-trans .nav-link.show,
 .navbar-b.navbar-trans .nav-link.active {
-  color: #fff;
+  color: blanchedalmond;
 }
 
 .navbar-b.navbar-reduce {
@@ -489,18 +489,20 @@ a:hover {
   color: #0078ff;
 }
 
-.navbar-b.navbar-reduce .navbar-brand {
-  color: #0078ff;
-}
+
 
 .navbar-b.navbar-reduce .navbar-toggler span {
   background-color: #1B1B1B;
 }
 
 .navbar-b .navbar-brand {
-  color: blanchedalmond !important;
+  color: blanchedalmond;
   font-size: 1.6rem;
   font-weight: 600;
+}
+
+.navbar-b.navbar-reduce .navbar-brand {
+  color: #0078ff;
 }
 
 .navbar-b .navbar-nav .dropdown-item.show .dropdown-menu,
