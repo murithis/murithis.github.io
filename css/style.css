@@ -449,7 +449,7 @@ a:hover {
 }
 
 .navbar-b.navbar-trans .nav-link:before {
-  background-color: #fff;
+  background-color: blanchedalmond;
 }
 
 .navbar-b.navbar-trans .nav-link:hover {
@@ -498,7 +498,7 @@ a:hover {
 }
 
 .navbar-b .navbar-brand {
-  color: #fff;
+  color: blanchedalmond;
   font-size: 1.6rem;
   font-weight: 600;
 }
@@ -613,7 +613,7 @@ a:hover {
 }
 
 .intro .intro-title {
-  color: #fff8dc;
+  color: blanchedalmond;
   font-weight: 600;
   font-size: 3rem;
 }
@@ -1076,7 +1076,7 @@ position: relative;
 
 footer {
   text-align: center;
-  color: #fff;
+  color: #fff8dc;
   padding-bottom: 4rem;
 }
 
